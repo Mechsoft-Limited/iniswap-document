@@ -21,11 +21,11 @@
 
 ## Products
 
-* [🔄 Exchange](products/iniswap-exchange/README.md)
-  * [Token Swaps](products/iniswap-exchange/trade.md)
-  * [How to Trade](products/iniswap-exchange/trade-guide.md)
-  * [Liquidity Pools](products/iniswap-exchange/iniswap-pools.md)
-  * [How to Add/Remove Liquidity](products/iniswap-exchange/liquidity-guide.md)
+* [🔄 Exchange](products/exchange/README.md)
+  * [Token Swaps](products/exchange/token-swaps.md)
+  * [How to Trade](products/exchange/how-to-trade.md)
+  * [Liquidity Pools](products/exchange/liquidity-pools.md)
+  * [How to Add/Remove Liquidity](products/exchange/how-to-add-remove-liquidity.md)
 * [🚜 Yield Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
   * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
@@ -48,18 +48,18 @@
   * [How to Participate in an IFO with BscScan](products/ifo-initial-farm-offering/how-to-participate-in-an-ifo-with-bscscan.md)
   * [Contract Details](products/ifo-initial-farm-offering/contract-details.md)
 * [📈 Analytics (Info)](products/info/README.md)
-  * [Analytics](products/info/iniswap-analytics.md)
+  * [Analytics](products/info/analytics.md)
 * [🗳 Voting](products/voting/README.md)
   * [How to Vote](products/voting/voting-guide.md)
   * [How to Vote with SafePal Wallet](products/voting/how-to-vote-with-safepal-wallet.md)
 
 ## Tokenomics
 
-* [INI](tokenomics/INI/README.md)
-  * [INI Tokenomics](tokenomics/INI/INI-tokenomics.md)
-  * [Controlling INI supply](tokenomics/INI/controlling-INI-supply.md)
+* [INI](tokenomics/ini/README.md)
+  * [INI Tokenomics](tokenomics/ini/ini-tokenomics.md)
+  * [Controlling INI supply](tokenomics/ini/controlling-ini-supply.md)
 
-## Developers <a href="code" id="code"></a>
+## Developers <a href="#code" id="code"></a>
 
 * [Contributing](code/contributing/README.md)
   * [Codebase Overview](code/contributing/codebase-overview.md)
@@ -85,7 +85,7 @@
   * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
   * [UI/UX Designer](hiring/become-a-chef/ui-ux-designer.md)
 
-## Contract Governance <a href="governance" id="governance"></a>
+## Contract Governance <a href="#governance" id="governance"></a>
 
 * [Lottery](governance/lottery/README.md)
   * [Lottery Contract](governance/lottery/lottery-contract.md)
