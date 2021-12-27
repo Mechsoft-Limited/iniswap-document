@@ -2,20 +2,20 @@
 
 ![](<../../.gitbook/assets/docs-masthead-1- (1).png>)
 
-Create a personalized profile on PancakeSwap to share your personality with the world. Choose a cute bunny NFT for your profile picture, give yourself a unique name, and join an awesome team!
+Create a personalized profile on iniswap to share your personality with the world. Choose a cute bunny NFT for your profile picture, give yourself a unique name, and join an awesome team!
 
-Having your profile created will let you to share your NFT profile picture and achievements with friends, and let you join special PancakeSwap team events.\
+Having your profile created will let you to share your NFT profile picture and achievements with friends, and let you join special iniswap team events.\
 \
-**This process will cost a total of 1.5 CAKE.**
+**This process will cost a total of 1.5 INI.**
 
 ![](<../../.gitbook/assets/image (170).png>)
 
-1\. Visit **Your Profile** under **Teams & Profile** [here](https://pancakeswap.finance/profile).\
+1\. Visit **Your Profile** under **Teams & Profile** [here](https://iniswap.finance/profile).\
 ****
 
 ![](<../../.gitbook/assets/image (118).png>)
 
-2\. Under “Choose your Starter!”, pick one of the available bunny NFTs you’d like for your profile picture. The NFT will cost you 1 CAKE.
+2\. Under “Choose your Starter!”, pick one of the available bunny NFTs you’d like for your profile picture. The NFT will cost you 1 INI.
 
 ![](<../../.gitbook/assets/image (160).png>)
 
@@ -35,7 +35,7 @@ For this example we’ll use Dollop.\
 
 4\. A new page will load saying “Choose collectible”. We’ll pick our Dollop we chose earlier. If you already own multiple NFTs you can choose one from a list of NFTs you own.
 
-If you face Oops! error, please check [troubleshooting](https://docs.pancakeswap.finance/help/troubleshooting#oops-we-couldnt-find-any-pancake-collectibles-in-your-wallet).
+If you face Oops! error, please check [troubleshooting](https://docs.iniswap.finance/help/troubleshooting#oops-we-couldnt-find-any-iniswap-collectibles-in-your-wallet).
 
 ![](<../../.gitbook/assets/image (144).png>)
 
@@ -57,7 +57,7 @@ If you face Oops! error, please check [troubleshooting](https://docs.pancakeswap
 
 ![](<../../.gitbook/assets/image (129).png>)
 
-If you face "username keeps spinning" issue, please check [troubleshooting](https://docs.pancakeswap.finance/help/troubleshooting#checking-username-keeps-spinning).
+If you face "username keeps spinning" issue, please check [troubleshooting](https://docs.iniswap.finance/help/troubleshooting#checking-username-keeps-spinning).
 
 9\. Read the warning in red, and click the “I understand…” checkbox.
 
@@ -67,7 +67,7 @@ If you face "username keeps spinning" issue, please check [troubleshooting](http
 
 ![](<../../.gitbook/assets/image (74).png>)
 
-11\. You’ll receive a message saying your profile contract will cost you 0.5 CAKE. Click **Enable, **then confirm the action in your wallet. After it's approved, click the **Confirm** button.
+11\. You’ll receive a message saying your profile contract will cost you 0.5 INI. Click **Enable, **then confirm the action in your wallet. After it's approved, click the **Confirm** button.
 
 ![](<../../.gitbook/assets/image (148).png>)
 
@@ -80,4 +80,4 @@ If you face "username keeps spinning" issue, please check [troubleshooting](http
 
 You may notice your name is starred out. To view your name, click the **👁** eye icon to the right of the stars, then you should now see your profile name.
 
-Congratulations! You now have your profile set up. Now anyone can view your profile to see your profile NFT picture, your team of choice, and your PancakeSwap achievements. You're also ready to participate in any special team events when they happen!
+Congratulations! You now have your profile set up. Now anyone can view your profile to see your profile NFT picture, your team of choice, and your iniswap achievements. You're also ready to participate in any special team events when they happen!

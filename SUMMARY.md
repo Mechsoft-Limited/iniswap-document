@@ -1,11 +1,11 @@
 # Table of contents
 
-* [PancakeSwap Intro](README.md)
+* [iniswap Intro](README.md)
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
-  * [Using PancakeSwap without Centralized Exchanges](get-started/using-pancakeswap-without-centralized-exchanges.md)
-  * [Connect Your Wallet to PancakeSwap](get-started/connection-guide.md)
+  * [Using iniswap without Centralized Exchanges](get-started/using-iniswap-without-centralized-exchanges.md)
+  * [Connect Your Wallet to iniswap](get-started/connection-guide.md)
 * [Click Here for Help](help/README.md)
   * [Troubleshooting Errors](help/troubleshooting.md)
   * [General FAQ](help/faq.md)
@@ -21,17 +21,17 @@
 
 ## Products
 
-* [🔄 Exchange](products/pancakeswap-exchange/README.md)
-  * [Token Swaps](products/pancakeswap-exchange/trade.md)
-  * [How to Trade](products/pancakeswap-exchange/trade-guide.md)
-  * [Liquidity Pools](products/pancakeswap-exchange/pancakeswap-pools.md)
-  * [How to Add/Remove Liquidity](products/pancakeswap-exchange/liquidity-guide.md)
+* [🔄 Exchange](products/iniswap-exchange/README.md)
+  * [Token Swaps](products/iniswap-exchange/trade.md)
+  * [How to Trade](products/iniswap-exchange/trade-guide.md)
+  * [Liquidity Pools](products/iniswap-exchange/iniswap-pools.md)
+  * [How to Add/Remove Liquidity](products/iniswap-exchange/liquidity-guide.md)
 * [🚜 Yield Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
   * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
 * [🍯 Syrup Pools](products/syrup-pool/README.md)
   * [How to Stake in Syrup Pools](products/syrup-pool/syrup-pool-guide.md)
-  * [Auto CAKE Syrup Pool](products/syrup-pool/auto-compounding.md)
+  * [Auto INI Syrup Pool](products/syrup-pool/auto-compounding.md)
   * [Syrup Pool FAQ & Troubleshooting](products/syrup-pool/syrup-pool-faq.md)
 * [🎟 Lottery v2](products/lottery/README.md)
   * [How to Play Lottery v2](products/lottery/lottery-guide.md)
@@ -48,16 +48,16 @@
   * [How to Participate in an IFO with BscScan](products/ifo-initial-farm-offering/how-to-participate-in-an-ifo-with-bscscan.md)
   * [Contract Details](products/ifo-initial-farm-offering/contract-details.md)
 * [📈 Analytics (Info)](products/info/README.md)
-  * [Analytics](products/info/pancakeswap-analytics.md)
+  * [Analytics](products/info/iniswap-analytics.md)
 * [🗳 Voting](products/voting/README.md)
   * [How to Vote](products/voting/voting-guide.md)
   * [How to Vote with SafePal Wallet](products/voting/how-to-vote-with-safepal-wallet.md)
 
 ## Tokenomics
 
-* [CAKE](tokenomics/cake/README.md)
-  * [CAKE Tokenomics](tokenomics/cake/cake-tokenomics.md)
-  * [Controlling CAKE supply](tokenomics/cake/controlling-cake-supply.md)
+* [INI](tokenomics/INI/README.md)
+  * [INI Tokenomics](tokenomics/INI/INI-tokenomics.md)
+  * [Controlling INI supply](tokenomics/INI/controlling-INI-supply.md)
 
 ## Developers <a href="code" id="code"></a>
 
@@ -65,11 +65,11 @@
   * [Codebase Overview](code/contributing/codebase-overview.md)
 * [Bug Bounty](code/bug-bounty.md)
 * [Smart Contracts](code/smart-contracts/README.md)
-  * [PancakeSwap Exchange](code/smart-contracts/pancakeswap-exchange/README.md)
-    * [Factory v2](code/smart-contracts/pancakeswap-exchange/factory-v2.md)
-    * [Router v2](code/smart-contracts/pancakeswap-exchange/router-v2.md)
+  * [iniswap Exchange](code/smart-contracts/iniswap-exchange/README.md)
+    * [Factory v2](code/smart-contracts/iniswap-exchange/factory-v2.md)
+    * [Router v2](code/smart-contracts/iniswap-exchange/router-v2.md)
   * [Main Staking/Syrup Pool/MasterChef Contract](code/smart-contracts/main-staking-masterchef-contract.md)
-  * [Auto CAKE Syrup Pool (CakeVault)](code/smart-contracts/cakevault.md)
+  * [Auto INI Syrup Pool (CakeVault)](code/smart-contracts/cakevault.md)
   * [Prediction V2](code/smart-contracts/prediction-v2.md)
   * [Lottery v2](code/smart-contracts/lottery-v2.md)
 

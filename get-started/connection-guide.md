@@ -1,10 +1,10 @@
-# Connect Your Wallet to PancakeSwap
+# Connect Your Wallet to iniswap
 
 ![](<../.gitbook/assets/docs-masthead-11- (1).png>)
 
-You've made a wallet and gotten your BEP20 tokens, now you just need to connect your wallet with PancakeSwap and you're good to go!
+You've made a wallet and gotten your BEP20 tokens, now you just need to connect your wallet with iniswap and you're good to go!
 
-Check out the steps below for how to connect each of our recommended wallets to PancakeSwap.
+Check out the steps below for how to connect each of our recommended wallets to iniswap.
 
 ## Smartphone/Mobile
 
@@ -20,25 +20,25 @@ To connect Trust Wallet follow the steps below. Note that Android and iOS device
 
 ![](<../.gitbook/assets/image (98).png>)
 
-1. Scroll down to "Popular" and tap on "PancakeSwap". You can also find it in "Exchanges".
+1. Scroll down to "Popular" and tap on "iniswap". You can also find it in "Exchanges".
 
 ![](<../.gitbook/assets/image (138).png>)
 
-1. A new page will open with the PancakeSwap logo and some information. Tap the **Connect** button.
+1. A new page will open with the iniswap logo and some information. Tap the **Connect** button.
 
 ![](<../.gitbook/assets/image (114).png>)
 
-1. PancakeSwap will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
+1. iniswap will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
 
 {% hint style="warning" %}
-If you find you are unable to connect at step 4, go back to the DApps menu and find "PancakeSwap" again. Using "Pancake Swap" from the "History" section may result in the same problem.
+If you find you are unable to connect at step 4, go back to the DApps menu and find "iniswap" again. Using "iniswap Swap" from the "History" section may result in the same problem.
 {% endhint %}
 
 ## iOS
 
-To connect to PancakeSwap through iOS, Trust Wallet have prepared a detailed guide on using WallteConnect.
+To connect to iniswap through iOS, Trust Wallet have prepared a detailed guide on using WallteConnect.
 
-Read the [Trust Wallet guide to connecting to PancakeSwap via WalletConnect](https://community.trustwallet.com/t/using-walletconnect-to-access-pancakeswap/212307).
+Read the [Trust Wallet guide to connecting to iniswap via WalletConnect](https://community.trustwallet.com/t/using-walletconnect-to-access-iniswap/212307).
 
 ## **Resources**
 
@@ -49,7 +49,7 @@ Read the [Trust Wallet guide to connecting to PancakeSwap via WalletConnect](htt
 {% tab title="MetaMask" %}
 ![](<../.gitbook/assets/image (33) (3) (4) (5) (1).png>)
 
-To connect MetaMask to PancakeSwap follow the steps below.
+To connect MetaMask to iniswap follow the steps below.
 
 ## Android and iOS
 
@@ -81,8 +81,8 @@ To connect MetaMask to PancakeSwap follow the steps below.
 
 ![](<../.gitbook/assets/image (69).png>)
 
-1. Type "PancakeSwap" into the search field and start the search. The top result will be the PancakeSwap exchange. Tap to enter it.
-2. You wallet will ask you to connect. Tap **Connect** to connect to PancakeSwap.
+1. Type "iniswap" into the search field and start the search. The top result will be the iniswap exchange. Tap to enter it.
+2. You wallet will ask you to connect. Tap **Connect** to connect to iniswap.
 
 ![](<../.gitbook/assets/image (66).png>)
 
@@ -103,11 +103,11 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 
 ![](<../.gitbook/assets/image (131).png>)
 
-1. You'll see a DApp browser page open. Under "Recommended", find and tap the **PancakeSwap** button. If you can't see PancakeSwap under Recommended, you can also find it under "BSC".
+1. You'll see a DApp browser page open. Under "Recommended", find and tap the **iniswap** button. If you can't see iniswap under Recommended, you can also find it under "BSC".
 
 ![](<../.gitbook/assets/image (115).png>)
 
-1. A window will open saying that you will be opening a third party DApp. Tap **I got it** and you'll be taken to PancakeSwap's website connected to your wallet.
+1. A window will open saying that you will be opening a third party DApp. Tap **I got it** and you'll be taken to iniswap's website connected to your wallet.
 
 ![](<../.gitbook/assets/image (119).png>)
 
@@ -127,11 +127,11 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](<../.gitbook/assets/image (78).png>)
 
-1. You'll see a DApp browser page open. Under "DeFi", find and tap the **PancakeSwap** button. If you can't see PancakeSwap under DeFi, you can also find it under "BSC".
+1. You'll see a DApp browser page open. Under "DeFi", find and tap the **iniswap** button. If you can't see iniswap under DeFi, you can also find it under "BSC".
 
 ![](<../.gitbook/assets/image (54).png>)
 
-1. A window will open saying that you will be opening a third party DApp. Tap **Confirm** and you'll be taken to PancakeSwap's website connected to your wallet.
+1. A window will open saying that you will be opening a third party DApp. Tap **Confirm** and you'll be taken to iniswap's website connected to your wallet.
 
 ![](<../.gitbook/assets/image (137).png>)
 
@@ -167,7 +167,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](<../.gitbook/assets/image (39).png>)
 
-1. Visit the [PancakeSwap website](https://pancakeswap.finance). In the top right corner you'll see the **Connect** button. Click it.
+1. Visit the [iniswap website](https://iniswap.finance). In the top right corner you'll see the **Connect** button. Click it.
 
 ![](<../.gitbook/assets/image (164) (3) (3).png>)
 
@@ -190,7 +190,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](<../.gitbook/assets/image (71).png>)
 
-1. Visit the PancakeSwap website. In the top-right, click **Connect**.
+1. Visit the iniswap website. In the top-right, click **Connect**.
 
 ![](<../.gitbook/assets/image (164) (3) (3) (1).png>)
 
@@ -214,15 +214,15 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](<../.gitbook/assets/image (47).png>)
 
-1. On the list of BSC DApps, you'll find PancakeSwap links. Click a **PancakeSwap** link.
+1. On the list of BSC DApps, you'll find iniswap links. Click a **iniswap** link.
 
 ![](<../.gitbook/assets/image (111).png>)
 
 {% hint style="warning" %}
-Make sure you don't choose the "PancakeSwap data analysis" option. If you do, you will not be able to connect.
+Make sure you don't choose the "iniswap data analysis" option. If you do, you will not be able to connect.
 {% endhint %}
 
-1. Your browser will open a PancakeSwap tab and attempt to connect to Token Pocket.
+1. Your browser will open a iniswap tab and attempt to connect to Token Pocket.
 
 {% hint style="warning" %}
 You will not be able to use both MetaMask and TokenPocket connecting through the same web browser. Make sure you use a web browser without MetaMask plugin installed if you're using TokenPocket on your desktop computer.

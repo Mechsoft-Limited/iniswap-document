@@ -11,7 +11,7 @@
 
 * Build smart contracts in Solidity for the Ethereum blockchain
 * Design, scope, and estimate complex contract based on requirements given
-* Envision and develop features to help grow PancakeSwap
+* Envision and develop features to help grow iniswap
 * Enthusiastically collaborate with a small team to plan projects at the task level
 * Collaborate with cross functional partners on all aspects of product development
 * Identify and advocate for team-wide areas of improvement and best practices
@@ -24,7 +24,7 @@
 * Understands gas optimization the tradeoff between efficient code and readable code
 * Knows how to write migrations and deploy code to EVM-compatible networks
 * Familiar with Truffle, Waffle, and Hardhat, and the pros and cons of each framework
-  * Specifically familiar with Hardhat as this is the framework used by PancakeSwap
+  * Specifically familiar with Hardhat as this is the framework used by iniswap
 * Possesses exceptional judgment, problem-solving skills, and an analytical mindset
 * Understands engineering best practices such as continuous integration
 * Ability to work in areas outside of your comfort zone and motivated by personal growth
@@ -34,4 +34,4 @@
 
 ### How to apply:
 
-Email [Hiring@pancakeswap.com](mailto:Hiring@pancakeswap.com) with your resume
+Email [Hiring@iniswap.com](mailto:Hiring@iniswap.com) with your resume

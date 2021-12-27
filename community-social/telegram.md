@@ -4,9 +4,9 @@
 
 📣 Announcement Channel \([http://t.me/PancakeSwapAnn](http://t.me/PancakeSwapAnn)\) 
 
-🏴󐁧󐁢󐁥󐁮󐁧󐁿 English Chat \([http://t.me/pancakeswap](http://t.me/pancakeswap)\) 
+🏴󐁧󐁢󐁥󐁮󐁧󐁿 English Chat \([http://t.me/iniswap](http://t.me/iniswap)\) 
 
-🇨🇳 Chinese Chat \([http://t.me/PancakeSwap\_CN](http://t.me/PancakeSwap_CN)\) 
+🇨🇳 Chinese Chat \([http://t.me/iniswap\_CN](http://t.me/PancakeSwap_CN)\) 
 
 🇮🇩 Indonesian Chat \([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia)\) 
 
@@ -18,11 +18,11 @@
 
  🇻🇳 Vietnamese Community \([http://t.me/PancakeSwapVI](http://t.me/PancakeSwapVI)\) 
 
-🇵🇭 Filipino Community \([http://t.me/Pancakeswap\_Ph](http://t.me/Pancakeswap_Ph)\) 
+🇵🇭 Filipino Community \([http://t.me/iniswap\_Ph](http://t.me/Pancakeswap_Ph)\) 
 
 🇪🇸 Spanish Community \([http://t.me/PancakeSwapES](http://t.me/PancakeSwapES)\) 
 
-🇷🇺 Russian Community \([http://t.me/pancakeswap\_ru](http://t.me/pancakeswap_ru)\) 
+🇷🇺 Russian Community \([http://t.me/iniswap\_ru](http://t.me/pancakeswap_ru)\) 
 
 🇹🇷 Turkish Community \([http://t.me/PancakeSwapTurkish](http://t.me/PancakeSwapTurkish)\)
 

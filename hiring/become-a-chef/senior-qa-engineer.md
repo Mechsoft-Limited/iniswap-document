@@ -9,7 +9,7 @@
 
 ### Requirements:
 
-* Thorough understanding of how PancakeSwap (Exchange, Farming, Info, Voting) works.
+* Thorough understanding of how iniswap (Exchange, Farming, Info, Voting) works.
 * Experience in writing automated tests for dApp frontends.
 * Ability to create testing setup from zero.
 * Be able to work autonomously.
@@ -26,4 +26,4 @@
 
 ### How to apply:
 
-Email [Hiring@pancakeswap.com](mailto:Hiring@pancakeswap.com) with your resume
+Email [Hiring@iniswap.com](mailto:Hiring@iniswap.com) with your resume

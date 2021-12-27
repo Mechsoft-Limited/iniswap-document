@@ -27,7 +27,7 @@ Items in the Backlog/exploration phase have not been forgotten, they’re just l
 ### Trade
 
 * Pending
-  * Team Battles/Trading Competitions as a Service: allow BSC projects to sponsor trading competitions on PancakeSwap for their LPs to increase volume (and burn more CAKE) 
+  * Team Battles/Trading Competitions as a Service: allow BSC projects to sponsor trading competitions on iniswap for their LPs to increase volume (and burn more INI) 
   * Charts & other trading features on-site
   * Zap (single-sided liquidity provision): Contract is done, waiting for FE resources for integration.
 * Backlog
@@ -46,10 +46,10 @@ Items in the Backlog/exploration phase have not been forgotten, they’re just l
   * Fixed-term Staking
   * Multi-reward Syrup Pools
 * Done 
-  * CAKE Staking
+  * INI Staking
   * Core Pools
-  * Community Pools: Host BSC community project Pools, support with 0.1-0.2x CAKE farms
-  * Auto-compounding CAKE-CAKE Syrup Pool
+  * Community Pools: Host BSC community project Pools, support with 0.1-0.2x INI farms
+  * Auto-compounding INI-INI Syrup Pool
   * Syrup Pool Boosts
   * Farm Auctions
   * APR/APY Calculator v2
@@ -77,10 +77,10 @@ Items in the Backlog/exploration phase have not been forgotten, they’re just l
 * Done
   * Customizable User Profile
   * NFT drops
-  * Pancake Squad generative NFT collection
+  * iniswap Squad generative NFT collection
   * NFT Market Phase 1
 
-### Site Upgrades / CAKE / Other Products
+### Site Upgrades / INI / Other Products
 
 * Pending
   * Personal dashboard
@@ -95,7 +95,7 @@ Items in the Backlog/exploration phase have not been forgotten, they’re just l
 * Backlog
   * Referral System
   * Hackathon
-  * Lending & Borrowing: Lend and borrow BSC and LP tokens - CAKE provides rate discount
-  * Margin Trading: Trade BSC tokens with leverage on-chain — periodic CAKE buyback and burn
+  * Lending & Borrowing: Lend and borrow BSC and LP tokens - INI provides rate discount
+  * Margin Trading: Trade BSC tokens with leverage on-chain — periodic INI buyback and burn
 
 ## ****

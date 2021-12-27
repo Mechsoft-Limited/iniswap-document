@@ -1,4 +1,4 @@
 # Twitter
 
-[https://twitter.com/PancakeSwap](https://twitter.com/PancakeSwap)
+[https://twitter.com/iniswap](https://twitter.com/iniswap)
 

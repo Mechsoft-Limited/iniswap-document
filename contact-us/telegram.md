@@ -2,19 +2,19 @@
 
 ![](../.gitbook/assets/docs-masthead-22-.png)
 
-Here you'll find a list of PancakeSwap's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
+Here you'll find a list of iniswap's official Social media channels and communities. If English is not your first language, we have a number of non-English communities that would love to have you join them!
 
 ## 🐦 Twitter
 
-[https://twitter.com/pancakeswap](https://twitter.com/pancakeswap)
+[https://twitter.com/iniswap](https://twitter.com/iniswap)
 
 ## 📰 Blog (Medium)
 
-{% embed url="https://medium.com/@pancakeswap" %}
+{% embed url="https://medium.com/@iniswap" %}
 
 ## 👽 Reddit
 
-{% embed url="https://reddit.com/r/pancakeswap" %}
+{% embed url="https://reddit.com/r/iniswap" %}
 
 ## 🤳 Instagram
 
@@ -25,7 +25,7 @@ Here you'll find a list of PancakeSwap's official Social media channels and comm
 **Official Telegram Groups:**
 
 * 📣 Announcement Channel ([http://t.me/PancakeSwapAnn](http://t.me/PancakeSwapAnn)) 
-* 🥞 English ([http://t.me/pancakeswap](http://t.me/pancakeswap)) 
+* 🥞 English ([http://t.me/iniswap](http://t.me/iniswap)) 
 * 🇯🇵 Japanese ([https://t.me/PancakeSwapJP](https://t.me/PancakeSwapJP))
 * 🇨🇳 Chinese ([http://t.me/PancakeSwap_CN](http://t.me/PancakeSwap_CN)) 
 * 🇮🇩 Indonesian ([http://t.me/PancakeSwapIndonesia](http://t.me/PancakeSwapIndonesia)) 

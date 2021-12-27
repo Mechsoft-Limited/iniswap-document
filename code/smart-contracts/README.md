@@ -1,25 +1,25 @@
 # Smart Contracts
 
-This page provides links or locations for PancakeSwap's smart contracts.
+This page provides links or locations for iniswap's smart contracts.
 
 ## Main contracts
 
-The following links will take you to the BscScan page for PancakeSwap's main smart contracts.
+The following links will take you to the BscScan page for iniswap's main smart contracts.
 
-* [PancakeSwap: Main Staking Contract/MasterChef](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e)
-* [PancakeSwap: Factory v2](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73)
-* [PancakeSwap: Router v2](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e)
-* [PancakeSwap: Lottery v2](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c#code)
-* [PancakeSwap: Prediction v2](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)
+* [iniswap: Main Staking Contract/MasterChef](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e)
+* [iniswap: Factory v2](https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73)
+* [iniswap: Router v2](https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e)
+* [iniswap: Lottery v2](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c#code)
+* [iniswap: Prediction v2](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)
 * Others:
   * [Farms Contracts](./#farms-contracts) 
   * [IFO Contracts](./#ifo-contracts)
 
 ## Farms contracts
 
-Each Farm used by PancakeSwap has its own smart contract. Follow the steps below to view a Farm's smart contract.
+Each Farm used by iniswap has its own smart contract. Follow the steps below to view a Farm's smart contract.
 
-1. Go to the [PancakeSwap Farms page](https://pancakeswap.finance/farms) and click the row of the Farm you want to see the contract for.
+1. Go to the [iniswap Farms page](https://iniswap.finance/farms) and click the row of the Farm you want to see the contract for.
 
 ![](../../.gitbook/assets/image%20%28162%29.png)
 
@@ -33,13 +33,13 @@ IFO contracts are unique to each new IFO. Follow the steps below to view an IFO'
 
 ### Current or most recent IFO
 
-Go to the [PancakeSwap IFO page](https://pancakeswap.finance/ifo) and look on the bottom right of the IFO information for a **View Contract** link.
+Go to the [iniswap IFO page](https://iniswap.finance/ifo) and look on the bottom right of the IFO information for a **View Contract** link.
 
 ![](../../.gitbook/assets/image%20%28100%29.png)
 
 ### Previous IFOs
 
-1. Go to the [PancakeSwap IFO page](https://pancakeswap.finance/ifo) and click the **Past IFOs** toggle at the top of the page.
+1. Go to the [iniswap IFO page](https://iniswap.finance/ifo) and click the **Past IFOs** toggle at the top of the page.
 
 ![](../../.gitbook/assets/image%20%28159%29.png)
 
