@@ -4,7 +4,7 @@ description: 'Syrup Pools: the simplest way to earn on iniswap'
 
 # How to Stake in Syrup Pools
 
-![](../../.gitbook/assets/docs-masthead-15-.png)
+![](../../.gitbook/assets/musthead.jpeg)
 
 Staking in [Syrup Pools](https://docs.iniswap.finance/products/syrup-pool) lets you earn INI or other tokens while you sleep!
 
@@ -30,8 +30,9 @@ It's simpler than farming with iniswap's Yield Farms, because unlike the Farms, 
 
 **Manual INI** doesn’t automatically compound like Auto INI. You’ll need to harvest and compound your earnings manually.
 
-Other Syrup Pools let you stake your INI to earn dozens of other cool tokens. Make sure you check them out.\
-****
+Other Syrup Pools let you stake your INI to earn dozens of other cool tokens. Make sure you check them out.\\
+
+***
 
 5\. Once you choose a pool, click the **Enable** button. Your wallet will ask you to confirm the action.
 
@@ -47,15 +48,15 @@ Other Syrup Pools let you stake your INI to earn dozens of other cool tokens. Ma
 
 ![](<../../.gitbook/assets/image (22) (1).png>)
 
-9\. The Confirm button will change to** "**Confirming", then once the transaction is successful, you’ll see your staked amount change and the button will change again.
+9\. The Confirm button will change to\*\* "\*\*Confirming", then once the transaction is successful, you’ll see your staked amount change and the button will change again.
 
 10\. You should now be able to see details on your Syrup Pool. Auto INI will show a countdown until the unstaking fee ends. The other pools will show a **Collect** button to claim your staking rewards into your wallet.
 
 ![](<../../.gitbook/assets/image (59) (1).png>)
 
-### **Adding and removing INI from a pool** ****
+### **Adding and removing INI from a pool** \*\*\*\*
 
-You can easily  add more INI to a Syrup Pool, or move some INI to a more profitable pool. Here’s how you can move your staked INI.
+You can easily add more INI to a Syrup Pool, or move some INI to a more profitable pool. Here’s how you can move your staked INI.
 
 1\. Click the **-** to take some INI out of a pool, or the **+** to add more to the pool.
 

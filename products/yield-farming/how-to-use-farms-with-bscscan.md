@@ -1,6 +1,6 @@
 # How to Use Farms with BscScan
 
-![](<../../.gitbook/assets/docs-masthead-21- (2).png>)
+![](../../.gitbook/assets/musthead.jpeg)
 
 Since it requires several steps, using Farms with Iniswap can seem intimidating at first. This guide will walk you through using the Farms contract directly through BscScan.
 
@@ -145,8 +145,6 @@ If you didn't copy down your PID earlier, you can learn how to get it in the **F
 6\. You can confirm your withdrawal worked by clicking **View your transaction**.
 
 ![](<../../.gitbook/assets/image (145).png>)
-
-
 
 ## **Making an emergency withdrawal**
 
