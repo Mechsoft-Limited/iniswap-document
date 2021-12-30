@@ -11,7 +11,7 @@
   * [Troubleshooting Errors](help/troubleshooting.md)
   * [General FAQ](faq.md)
   * [Fixing Stuck Pending Transactions on MetaMask](help/unsticking-a-transaction-stuck-as-pending-with-metamask.md)
-  * [Binance Academy Guide](help/binance-academy-guide.md)
+  <!-- * [Binance Academy Guide](help/binance-academy-guide.md) -->
 * [Contact Us](contact-us/README.md)
   * [Business Partnerships](contact-us/business-partnerships.md)
   * [NFT Market Applications](contact-us/nft-market-applications.md)
@@ -87,12 +87,12 @@
   * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
   * [UI/UX Designer](hiring/become-a-chef/ui-ux-designer.md) -->
 
-## Contract Governance <a href="#governance" id="governance"></a>
+<!-- ## Contract Governance <a href="#governance" id="governance"></a>
 
 <!-- * [Lottery](governance/lottery/README.md) -->
   <!-- * [Lottery Contract](governance/lottery/lottery-contract.md) -->
 <!-- * [Prediction](governance/prediction.md) -->
-* [Farms](governance/farms.md)
+<!-- * [Farms](governance/farms.md)
 * [Syrup Pools](governance/syrup-pools/README.md)
   * [SmartChefInitializable](governance/syrup-pools/smartchefinitializable.md)
-  * [PoolDeployer](governance/syrup-pools/pooldeployer.md)
+  * [PoolDeployer](governance/syrup-pools/pooldeployer.md) -->
