@@ -4,7 +4,7 @@
 
 Buy new tokens using INI-BNB LP tokens. 
 
-The project gets the BNB, iniswap burns the INI. **You get the tokens.**
+The project gets the BNB, Iniswap burns the INI. **You get the tokens.**
 
 1. **You will need INI-BNB LP tokens** to participate.
 2. **INI tokens equating to half of the total funds raised will be burned forever**: For example, if the full $1,000,000 USD allocation is raised, then** **$500,000 of INI tokens will be burned.

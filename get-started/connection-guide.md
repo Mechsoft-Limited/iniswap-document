@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/musthead.jpeg)
 
-You've made a wallet and gotten your BEP20 tokens, now you just need to connect your wallet with iniswap and you're good to go!
+You've made a wallet and gotten your BEP20 tokens, now you just need to connect your wallet with Iniswap and you're good to go!
 
 Check out the steps below for how to connect each of our recommended wallets to iniswap.
 
@@ -24,21 +24,21 @@ To connect Trust Wallet follow the steps below. Note that Android and iOS device
 
 ![](<../.gitbook/assets/image (138).png>)
 
-1. A new page will open with the iniswap logo and some information. Tap the **Connect** button.
+1. A new page will open with the Iniswap logo and some information. Tap the **Connect** button.
 
 ![](<../.gitbook/assets/image (114).png>)
 
-1. iniswap will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
+1. Iniswap will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
 
 {% hint style="warning" %}
-If you find you are unable to connect at step 4, go back to the DApps menu and find "iniswap" again. Using "iniswap Swap" from the "History" section may result in the same problem.
+If you find you are unable to connect at step 4, go back to the DApps menu and find "iniswap" again. Using "Iniswap Swap" from the "History" section may result in the same problem.
 {% endhint %}
 
 ### iOS
 
-To connect to iniswap through iOS, Trust Wallet have prepared a detailed guide on using WallteConnect.
+To connect to Iniswap through iOS, Trust Wallet have prepared a detailed guide on using WallteConnect.
 
-Read the [Trust Wallet guide to connecting to iniswap via WalletConnect](https://community.trustwallet.com/t/using-walletconnect-to-access-iniswap/212307).
+Read the [Trust Wallet guide to connecting to Iniswap via WalletConnect](https://community.trustwallet.com/t/using-walletconnect-to-access-iniswap/212307).
 
 ### **Resources**
 
@@ -49,7 +49,7 @@ Read the [Trust Wallet guide to connecting to iniswap via WalletConnect](https:/
 {% tab title="MetaMask" %}
 ![](<../.gitbook/assets/image (33) (3) (4) (5) (1).png>)
 
-To connect MetaMask to iniswap follow the steps below.
+To connect MetaMask to Iniswap follow the steps below.
 
 ### Android and iOS
 
@@ -81,7 +81,7 @@ To connect MetaMask to iniswap follow the steps below.
 
 ![](<../.gitbook/assets/image (69).png>)
 
-1. Type "iniswap" into the search field and start the search. The top result will be the iniswap exchange. Tap to enter it.
+1. Type "iniswap" into the search field and start the search. The top result will be the Iniswap exchange. Tap to enter it.
 2. You wallet will ask you to connect. Tap **Connect** to connect to iniswap.
 
 ![](<../.gitbook/assets/image (66).png>)
@@ -103,7 +103,7 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 
 ![](<../.gitbook/assets/image (131).png>)
 
-1. You'll see a DApp browser page open. Under "Recommended", find and tap the **iniswap** button. If you can't see iniswap under Recommended, you can also find it under "BSC".
+1. You'll see a DApp browser page open. Under "Recommended", find and tap the **iniswap** button. If you can't see Iniswap under Recommended, you can also find it under "BSC".
 
 ![](<../.gitbook/assets/image (115).png>)
 
@@ -127,7 +127,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](<../.gitbook/assets/image (78).png>)
 
-1. You'll see a DApp browser page open. Under "DeFi", find and tap the **iniswap** button. If you can't see iniswap under DeFi, you can also find it under "BSC".
+1. You'll see a DApp browser page open. Under "DeFi", find and tap the **iniswap** button. If you can't see Iniswap under DeFi, you can also find it under "BSC".
 
 ![](<../.gitbook/assets/image (54).png>)
 
@@ -167,7 +167,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](<../.gitbook/assets/image (39).png>)
 
-1. Visit the [iniswap website](https://iniswap.finance). In the top right corner you'll see the **Connect** button. Click it.
+1. Visit the [Iniswap website](https://iniswap.finance). In the top right corner you'll see the **Connect** button. Click it.
 
 ![](<../.gitbook/assets/image (164) (3) (3).png>)
 
@@ -190,7 +190,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](<../.gitbook/assets/image (71).png>)
 
-1. Visit the iniswap website. In the top-right, click **Connect**.
+1. Visit the Iniswap website. In the top-right, click **Connect**.
 
 ![](<../.gitbook/assets/image (164) (3) (3) (1).png>)
 
@@ -214,15 +214,15 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](<../.gitbook/assets/image (47).png>)
 
-1. On the list of BSC DApps, you'll find iniswap links. Click a **iniswap** link.
+1. On the list of BSC DApps, you'll find Iniswap links. Click a **iniswap** link.
 
 ![](<../.gitbook/assets/image (111).png>)
 
 {% hint style="warning" %}
-Make sure you don't choose the "iniswap data analysis" option. If you do, you will not be able to connect.
+Make sure you don't choose the "Iniswap data analysis" option. If you do, you will not be able to connect.
 {% endhint %}
 
-1. Your browser will open a iniswap tab and attempt to connect to Token Pocket.
+1. Your browser will open a Iniswap tab and attempt to connect to Token Pocket.
 
 {% hint style="warning" %}
 You will not be able to use both MetaMask and TokenPocket connecting through the same web browser. Make sure you use a web browser without MetaMask plugin installed if you're using TokenPocket on your desktop computer.

@@ -33,7 +33,7 @@ You're trying to swap tokens, but your slippage tolerance is too low or liquidit
 
 That means there isn't enough of one of the tokens you're trying to swap in the Liquidity Pool: it's probably a small-cap token that few people are trading.
 
-However, there's also the chance that you're trying to trade a scam token which cannot be sold. In this case, iniswap isn't able to block a token or return funds.
+However, there's also the chance that you're trying to trade a scam token which cannot be sold. In this case, Iniswap isn't able to block a token or return funds.
 {% endtab %}
 {% endtabs %}
 
@@ -70,7 +70,7 @@ It might be the case that prices are updating too fast when and your slippage to
 {% tab title="Solution for nerds" %}
 OK, so you're really determined to fix this. We really don't recommend doing this unless you know what you're doing.
 
-There currently isn't a simple way to solve this issue from the iniswap website: you'll need to interact with the contract directly. You can add liquidity directly via the Router contract, while setting amountAMin to a small amount, then withdrawing all liquidity.
+There currently isn't a simple way to solve this issue from the Iniswap website: you'll need to interact with the contract directly. You can add liquidity directly via the Router contract, while setting amountAMin to a small amount, then withdrawing all liquidity.
 
 #### **Approve the LP contract**
 
@@ -162,7 +162,7 @@ Please contact the project team of the token you're trying to swap.\*\* \*\*This
 {% endtab %}
 
 {% tab title="Reason" %}
-**This issue (while swapping) is caused by tokens which have hard-coded the V1 iniswap router into their contract.**
+**This issue (while swapping) is caused by tokens which have hard-coded the V1 Iniswap router into their contract.**
 
 While this practice is ill-advised at best, the reason for these projects having done this appears to be due to their tokenomics, in which each purchase sends a % of the token to LPs.
 
@@ -417,7 +417,7 @@ Cause unclear. Try these steps before trying again:
 
 ## **Issues with Profile**
 
-### Oops! We couldn't find any iniswap Collectibles in your wallet.
+### Oops! We couldn't find any Iniswap Collectibles in your wallet.
 
 We're investigating the logic behind this issue. Meanwhile please try the workaround.
 

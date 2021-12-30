@@ -2,7 +2,7 @@
 
 ![](../../.gitbook/assets/docs-masthead-3-%20%282%29.png)
 
-Playing the iniswap Lottery gives you a chance to win huge INI prizes! It's easy, fair, and you can enter as often as you like as long as you have the INI to buy a ticket.
+Playing the Iniswap Lottery gives you a chance to win huge INI prizes! It's easy, fair, and you can enter as often as you like as long as you have the INI to buy a ticket.
 
 [View smart contract](https://bscscan.com/address/0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c)
 

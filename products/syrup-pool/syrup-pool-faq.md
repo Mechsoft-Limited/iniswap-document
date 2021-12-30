@@ -96,7 +96,7 @@ The rewards for the "Stake INI, earn INI" Syrup Pools come from the [INI emissio
 
 The rewards for the "Stake INI, earn other tokens" type are provided by the project teams who sponsor a Syrup Pool.
 
-For the "Stake other tokens, earn INI" type, the iniswap treasury buys back INI from the market to distribute as rewards. These pools are funded by iniswap, not by the projects themselves.
+For the "Stake other tokens, earn INI" type, the Iniswap treasury buys back INI from the market to distribute as rewards. These pools are funded by iniswap, not by the projects themselves.
 
 ### What’s SYRUP Token?
 

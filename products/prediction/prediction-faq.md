@@ -28,7 +28,7 @@ Make sure you have enough BNB in your wallet to pay for gas fees. You’ll need 
 
 Markets are paused when there are conditions which affect the reliability of the contract. Markets being paused means that no bets will be taking place for any rounds.
 
-### What causes iniswap Prediction market to pause?
+### What causes Iniswap Prediction market to pause?
 
 The prediction market will pause under the following conditions:
 
@@ -63,7 +63,7 @@ No. Once you enter a position, you can NOT change the directtion, add to, or rem
 
 ## General Questions
 
-### What’s the iniswap Prediction contract address?
+### What’s the Iniswap Prediction contract address?
 
 Verified contract address: [https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)
 
@@ -90,7 +90,7 @@ The treasury fee is currently set at 3%: this may be subject to changes, which w
 
 ### What are you using for your price feed?
 
-iniswap uses two sources for our price feeds. They each have their own purpose within the prediction market:
+Iniswap uses two sources for our price feeds. They each have their own purpose within the prediction market:
 
 #### ChainLink Oracle
 
@@ -99,7 +99,7 @@ iniswap uses two sources for our price feeds. They each have their own purpose w
 
 #### Binance BNB/USDT
 
-* Used for real-time price updates on the iniswap prediction market interface.
+* Used for real-time price updates on the Iniswap prediction market interface.
 
 Since we’re using two different price feeds, the real-time price updates from Binance and the ChainLink Oracle price may differ by a small amount. However, they shouldn’t vary significantly.
 

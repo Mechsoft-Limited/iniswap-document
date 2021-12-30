@@ -13,7 +13,7 @@ View the [iniswap: Lottery contract on BscScan](https://bscscan.com/address/0x5a
 
 ## Audits
 
-The iniswap Lottery V2 has been audited twice so far. View the results below:
+The Iniswap Lottery V2 has been audited twice so far. View the results below:
 
 [Peckshield's Lottery V2 Audit](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-PancakeswapLottery-v1.0.pdf)
 

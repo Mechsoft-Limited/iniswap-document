@@ -12,13 +12,13 @@ Your INI is now pulling in **multiple** income streams.
 
 Sounds… “sweet”, right? 😏
 
-**SYRUP Pool: where sweet, new tokens meet the iniswap community!**
+**SYRUP Pool: where sweet, new tokens meet the Iniswap community!**
 
 Syrup Pool allows Binance Smart Chain projects to bootstrap adoption by distributing a portion of their tokens to SYRUP token holders.
 
 Syrup Pool will be split into two sections: Core and Community.
 
-* Core will be initially selected by the iniswap team.
+* Core will be initially selected by the Iniswap team.
 * Community will be projects that pass a community vote on the governance portal.
 
 Note that any project will be able to distribute tokens via Syrup Pool but only projects that win a vote would be listed on the swap interface as a default option \(in order to discourage scams\).
@@ -27,9 +27,9 @@ Note that any project will be able to distribute tokens via Syrup Pool but only 
 
 **Why would projects want to participate?**
 
-Since iniswap has had the [fairest launch ever](https://medium.com/@iniswap/the-fairest-launch-ever-5b246644ba2a), SYRUP Pool projects will allow projects to receive market attention by issuing tokens to the largest \(and most active\) BSC community.
+Since Iniswap has had the [fairest launch ever](https://medium.com/@iniswap/the-fairest-launch-ever-5b246644ba2a), SYRUP Pool projects will allow projects to receive market attention by issuing tokens to the largest \(and most active\) BSC community.
 
-Projects will also receive an immediate default listing on the iniswap interface, obtaining priority promotion on the exchange \(by ranking temporarily first in selecting tokens on the website\).
+Projects will also receive an immediate default listing on the Iniswap interface, obtaining priority promotion on the exchange \(by ranking temporarily first in selecting tokens on the website\).
 
 **Extending the utility of SYRUP tokens**
 

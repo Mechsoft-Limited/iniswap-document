@@ -21,7 +21,7 @@ We aim to respond to applications within a week, but due to the large number of 
 
 ### What’s the difference between a Core Farm VS Farm Auction
 
-A Core Farm is usually offered to projects who have shown excellent trading volumes on iniswap and have met the standards of our internal review process, while any project can participate in a Farm Auction and win a Farm slot.
+A Core Farm is usually offered to projects who have shown excellent trading volumes on Iniswap and have met the standards of our internal review process, while any project can participate in a Farm Auction and win a Farm slot.
 
 ### What are the qualifying criteria for Community VS Core?
 
@@ -29,7 +29,7 @@ Qualifying criteria for Community Farms and Core Farms/Pools are based on our in
 
 ### Can I get a larger Farm multiplier? Or can I extend my Syrup Pool and Farm?
 
-If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline via a Boost Pool. If you wish to increase the multiplier, the team will consider it if 30-day volume is increased. Contact us via your existing iniswap communication channels for enquiries.
+If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline via a Boost Pool. If you wish to increase the multiplier, the team will consider it if 30-day volume is increased. Contact us via your existing Iniswap communication channels for enquiries.
 
 ## IFOs (Token Sales)
 
@@ -61,13 +61,13 @@ Anybody can "list" any BEP-20 network token on iniswap. You don't need to contac
 
 ### How can I add my token to the default list?
 
-The top 100 list is generated according to the highest volume for a specific period of time. As for the Extended list: projects hosting Farms will usually be added, and other tokens chosen by iniswap core team may also be added.
+The top 100 list is generated according to the highest volume for a specific period of time. As for the Extended list: projects hosting Farms will usually be added, and other tokens chosen by Iniswap core team may also be added.
 
 We don’t take applications for these lists. Users can still add your token manually by entering its contract address.
 
 ### How can I add my token's logo/icon?
 
-Please add your icon to Trust Wallet’s assets repo, which iniswap references: [https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
+Please add your icon to Trust Wallet’s assets repo, which Iniswap references: [https://github.com/trustwallet/assets](https://github.com/trustwallet/assets)
 
 ### Someone made a fake copy of my token! Can you block it?
 

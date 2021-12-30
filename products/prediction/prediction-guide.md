@@ -5,14 +5,14 @@
 Playing iniswap’s Prediction lets you test your foresight to earn rewards. Use your market knowledge or gut feeling to predict if the BNBUSDT price will go up or down in the near future. Get it right and you’ll collect a share of the round’s prize pool!
 
 {% hint style="warning" %}
-iniswap’s Prediction is a new product that we still consider to be in beta. We may make changes in the future to improve Prediction. As always, the iniswap team will inform users of any changes that will impact how the product works.
+iniswap’s Prediction is a new product that we still consider to be in beta. We may make changes in the future to improve Prediction. As always, the Iniswap team will inform users of any changes that will impact how the product works.
 {% endhint %}
 
 ## Accepting terms of the beta
 
 Before you can use Prediction, you’ll need to review and accept the terms.
 
-Visit the [iniswap Prediction page](https://iniswap.finance/prediction). You will see a “Welcome!” window explaining that the Prediction product is still in beta.
+Visit the [Iniswap Prediction page](https://iniswap.finance/prediction). You will see a “Welcome!” window explaining that the Prediction product is still in beta.
 
 ![](https://lh4.googleusercontent.com/GA0nTC9\_fGjLP2Bt0u7f1VV9Dj4BCHAmqlLSwwQPWTQzDOcKu1ZBqjVzYQOIalerZUac_oBk2FYggw1-JpuTIQ4XPga7ZfUVPXOOikEySeYi4O-xr1O4XQFOVw8zilyRCfGkuXeO)
 

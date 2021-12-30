@@ -1,2 +1,2 @@
-# iniswap Exchange
+# Iniswap Exchange
 

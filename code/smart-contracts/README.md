@@ -17,9 +17,9 @@ The following links will take you to the BscScan page for iniswap's main smart c
 
 ## Farms contracts
 
-Each Farm used by iniswap has its own smart contract. Follow the steps below to view a Farm's smart contract.
+Each Farm used by Iniswap has its own smart contract. Follow the steps below to view a Farm's smart contract.
 
-1. Go to the [iniswap Farms page](https://iniswap.finance/farms) and click the row of the Farm you want to see the contract for.
+1. Go to the [Iniswap Farms page](https://iniswap.finance/farms) and click the row of the Farm you want to see the contract for.
 
 ![](../../.gitbook/assets/image%20%28162%29.png)
 
@@ -33,13 +33,13 @@ IFO contracts are unique to each new IFO. Follow the steps below to view an IFO'
 
 ### Current or most recent IFO
 
-Go to the [iniswap IFO page](https://iniswap.finance/ifo) and look on the bottom right of the IFO information for a **View Contract** link.
+Go to the [Iniswap IFO page](https://iniswap.finance/ifo) and look on the bottom right of the IFO information for a **View Contract** link.
 
 ![](../../.gitbook/assets/image%20%28100%29.png)
 
 ### Previous IFOs
 
-1. Go to the [iniswap IFO page](https://iniswap.finance/ifo) and click the **Past IFOs** toggle at the top of the page.
+1. Go to the [Iniswap IFO page](https://iniswap.finance/ifo) and click the **Past IFOs** toggle at the top of the page.
 
 ![](../../.gitbook/assets/image%20%28159%29.png)
 

@@ -2,9 +2,9 @@
 
 ![](<../../.gitbook/assets/docs-masthead-1- (1).png>)
 
-Create a personalized profile on iniswap to share your personality with the world. Choose a cute bunny NFT for your profile picture, give yourself a unique name, and join an awesome team!
+Create a personalized profile on Iniswap to share your personality with the world. Choose a cute bunny NFT for your profile picture, give yourself a unique name, and join an awesome team!
 
-Having your profile created will let you to share your NFT profile picture and achievements with friends, and let you join special iniswap team events.\
+Having your profile created will let you to share your NFT profile picture and achievements with friends, and let you join special Iniswap team events.\
 \
 **This process will cost a total of 1.5 INI.**
 
@@ -80,4 +80,4 @@ If you face "username keeps spinning" issue, please check [troubleshooting](http
 
 You may notice your name is starred out. To view your name, click the **👁** eye icon to the right of the stars, then you should now see your profile name.
 
-Congratulations! You now have your profile set up. Now anyone can view your profile to see your profile NFT picture, your team of choice, and your iniswap achievements. You're also ready to participate in any special team events when they happen!
+Congratulations! You now have your profile set up. Now anyone can view your profile to see your profile NFT picture, your team of choice, and your Iniswap achievements. You're also ready to participate in any special team events when they happen!

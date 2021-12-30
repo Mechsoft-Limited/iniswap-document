@@ -1,5 +1,5 @@
 ---
-description: Find your way on iniswap Github
+description: Find your way on Iniswap Github
 ---
 
 # Codebase Overview
@@ -12,7 +12,7 @@ All our repositories are stored on [Github](https://github.com/iniswap). Most of
 
 ## Github repositories
 
-* [Toolkit](https://github.com/iniswap/iniswap-toolkit): Contains a set of packages used to build the iniswap ecosystem, including the  uikit.
+* [Toolkit](https://github.com/iniswap/iniswap-toolkit): Contains a set of packages used to build the Iniswap ecosystem, including the  uikit.
 * [Frontend](https://github.com/iniswap/iniswap-frontend): The main frontend. It contains all the features that are not listed below.
 * [Exchange](https://github.com/iniswap/iniswap-swap-interface): The trading platform for iniswap.
 * [Info](https://github.com/iniswap/iniswap-info): On chain data for iniswap.

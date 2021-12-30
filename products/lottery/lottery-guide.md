@@ -5,7 +5,7 @@
 iniswap's Lottery is not only a good way to make stacks of INI, it's also loads of fun! This guide will walk you through getting involved in the Lottery.
 
 {% hint style="info" %}
-The Lottery has changed a little since its first iteration. Lottery v2 lets you win more often, have some control over your tickets, and has more potential for huge INI jackpots to get your mouth watering. Learn more about [iniswap Lottery v2 here](https://docs.iniswap.finance/products/lottery).
+The Lottery has changed a little since its first iteration. Lottery v2 lets you win more often, have some control over your tickets, and has more potential for huge INI jackpots to get your mouth watering. Learn more about [Iniswap Lottery v2 here](https://docs.iniswap.finance/products/lottery).
 {% endhint %}
 
 ## Deciding if you'd like to enter a round
@@ -14,7 +14,7 @@ The Lottery has changed a little since its first iteration. Lottery v2 lets you 
 
 ‌The longer a round is open, the more people can buy a ticket. Each ticket sold increases the prize pool further. Here's how to check the current round's prize pool and remaining time.
 
-‌1. Visit the[ iniswap Lottery page](https://iniswap.finance/lottery) and look at the top of the page. You'll see the current round's prize pool shown in (estimated) US dollar value.
+‌1. Visit the[ Iniswap Lottery page](https://iniswap.finance/lottery) and look at the top of the page. You'll see the current round's prize pool shown in (estimated) US dollar value.
 
 ![](https://lh5.googleusercontent.com/xjHyOYGhIW7tylzt7ZoqogZ4jlK1QfUX3kgxa_yqpQwVcr48abh3jErRc1fjF4HJISl-Kqzoa4XY1sB\_8kpOwEWIIXUJ15PIpKdrULJSzwR9L7ANpvyABtWRk7Z9jm_GzW3KXqo8)
 
@@ -40,7 +40,7 @@ You can choose to either randomize your lottery ticket numbers, or to choose you
 {% tab title="Randomized ticket numbers" %}
 ### Randomized ticket numbers
 
-1\. On the[ iniswap Lottery page](https://iniswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
+1\. On the[ Iniswap Lottery page](https://iniswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
 
 ![](https://lh5.googleusercontent.com/uzvN8ZK78KrrnUo1lZsTpB-RG_WKi5R2U3ZXtmO5od1jx02mEaxaL2uEN2mSylkrbsQLDpAHdzrib4cxtO8OUsifCHgXxRUi7dSeksWY725YOnPJ9eQlkS85bNYoWIsl6PUmCSTc)
 
@@ -64,7 +64,7 @@ The discount starts at 2 tickets, and scales all the way to 100 tickets where yo
 {% tab title="Manual ticket numbers" %}
 ### Manual ticket numbers
 
-1\. On the[ iniswap Lottery page](https://iniswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
+1\. On the[ Iniswap Lottery page](https://iniswap.finance/lottery), click the **Buy Tickets** button at the top of the page (there's another lower on the page also).
 
 ![](https://lh5.googleusercontent.com/I1KdHOidk7L4XS\_-UTKmJaRYqFwR35gATRLS8BtBcxuwermUHuWD7hSgOgVjze21pr2Ow-KrvcpUacoh3t3\_LR3kQMT8-JxSBbfJ0K66v7qhCzBo53uK9tXexkN5MKksGoQ\_308N)
 

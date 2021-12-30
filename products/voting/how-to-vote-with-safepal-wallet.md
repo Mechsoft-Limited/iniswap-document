@@ -8,7 +8,7 @@ You can use the SafePal wallet to vote on open issues in iniswap. Follow the ste
 
 ![](../../.gitbook/assets/safepal-1.png)
 
-2\. Enter the URL of the voting page in the address bar. If you don't know the direct URL to the vote you want to vote on, you can go to the [iniswap voting page](https://voting.iniswap.finance) and find the vote from there.
+2\. Enter the URL of the voting page in the address bar. If you don't know the direct URL to the vote you want to vote on, you can go to the [Iniswap voting page](https://voting.iniswap.finance) and find the vote from there.
 
 ![](../../.gitbook/assets/safepal-2.png)
 
@@ -16,7 +16,7 @@ You can use the SafePal wallet to vote on open issues in iniswap. Follow the ste
 
 ![](../../.gitbook/assets/safepal-3.png)
 
-4\. Click on **Injected** as the wallet. Your wallet will now be connected and you can now vote on iniswap proposals.
+4\. Click on **Injected** as the wallet. Your wallet will now be connected and you can now vote on Iniswap proposals.
 
 ![](../../.gitbook/assets/safepal-4.png)
 

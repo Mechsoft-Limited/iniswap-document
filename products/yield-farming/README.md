@@ -2,7 +2,7 @@
 
 ![](<../../.gitbook/assets/docs-masthead-1- (2).png>)
 
-Yield Farms allow users to earn INI while supporting iniswap by staking LP Tokens.
+Yield Farms allow users to earn INI while supporting Iniswap by staking LP Tokens.
 
 Check out our [How to Use Farms guide](https://docs.iniswap.finance/products/yield-farming/how-to-use-farms) to get started with farming.
 

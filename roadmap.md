@@ -25,7 +25,7 @@ Items in the Backlog/exploration phase have not been forgotten, they’re just l
 ### Trade
 
 * Pending
-  * Team Battles/Trading Competitions as a Service: allow BSC projects to sponsor trading competitions on iniswap for their LPs to increase volume (and burn more INI)
+  * Team Battles/Trading Competitions as a Service: allow BSC projects to sponsor trading competitions on Iniswap for their LPs to increase volume (and burn more INI)
   * Charts & other trading features on-site
   * Zap (single-sided liquidity provision): Contract is done, waiting for FE resources for integration.
 * Backlog
@@ -75,7 +75,7 @@ Items in the Backlog/exploration phase have not been forgotten, they’re just l
 * Done
   * Customizable User Profile
   * NFT drops
-  * iniswap Squad generative NFT collection
+  * Iniswap Squad generative NFT collection
   * NFT Market Phase 1
 
 ### Site Upgrades / INI / Other Products

@@ -16,5 +16,5 @@
 * **BAKE/BNB \(1x Rewards\) - For this one, you can use Bakery’s LP token directly.**
 * **BURGER/BNB \(1x Rewards\)** 
 
-**\*\*\[**Get your FLIP tokens \(iniswap Liquidity Provider Tokens\) HERE**\]\(**[https://exchange.iniswap.finance/\#/swap](https://exchange.iniswap.finance/#/swap)**\)**.\*\*
+**\*\*\[**Get your FLIP tokens \(Iniswap Liquidity Provider Tokens\) HERE**\]\(**[https://exchange.iniswap.finance/\#/swap](https://exchange.iniswap.finance/#/swap)**\)**.\*\*
 

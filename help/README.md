@@ -14,7 +14,7 @@ The [Troubleshooting Errors page](https://docs.iniswap.finance/help/troubleshoot
 
 ### General FAQ
 
-The [General FAQ page](https://docs.iniswap.finance/help/faq) answers the common questions we get from iniswap users. The answers to these questions give advice, an explanation, or a link to a useful resource.
+The [General FAQ page](https://docs.iniswap.finance/help/faq) answers the common questions we get from Iniswap users. The answers to these questions give advice, an explanation, or a link to a useful resource.
 
 ### Other Guides
 
@@ -22,4 +22,4 @@ There are also a number of guides in the help topic that will walk you through t
 
 ## Seeking support
 
-iniswap doesn't have a dedicated support service. Instead, if you find yourself with a problem that has no answer here, you can ask for help on [iniswap's Telegram channel](https://t.me/iniswap). For your safety, make sure you read the notice about scams if it's your first time on our Telegram.
+Iniswap doesn't have a dedicated support service. Instead, if you find yourself with a problem that has no answer here, you can ask for help on [iniswap's Telegram channel](https://t.me/iniswap). For your safety, make sure you read the notice about scams if it's your first time on our Telegram.

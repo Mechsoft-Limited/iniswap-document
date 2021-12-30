@@ -1,5 +1,5 @@
 ---
-description: Yield Farming on iniswap is easy!
+description: Yield Farming on Iniswap is easy!
 ---
 
 # How to Use Farms
@@ -123,7 +123,7 @@ You can see this fee in your wallet when confirming after clicking **Harvest**.
 
 This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
 
-And that's all there is to it! You may also want to look at [how to use iniswap Syrup Pools](https://docs.iniswap.finance/get-started/syrup-pool-guide) to earn rewards.
+And that's all there is to it! You may also want to look at [how to use Iniswap Syrup Pools](https://docs.iniswap.finance/get-started/syrup-pool-guide) to earn rewards.
 
 Happy farming!
 

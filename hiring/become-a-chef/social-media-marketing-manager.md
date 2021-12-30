@@ -25,8 +25,8 @@
 * Demonstrable hands on experience in content management.
 * Be crypto native. Know your way around DeFi, NFTs, and have your bunny ear to the ground
 * Be creative. Be fun. Be sociable. Speak like a human, even though you're a rabbit. Connect with the community. Flip Pancakes.
-* Ideally already a iniswap user. Experience with yield farming, lending protocols etc. a must.
-* BYO frying pan and spatula. iniswap batter available upon request.
+* Ideally already a Iniswap user. Experience with yield farming, lending protocols etc. a must.
+* BYO frying pan and spatula. Iniswap batter available upon request.
 
 ### How to apply
 

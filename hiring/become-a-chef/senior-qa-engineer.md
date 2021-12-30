@@ -9,7 +9,7 @@
 
 ### Requirements:
 
-* Thorough understanding of how iniswap (Exchange, Farming, Info, Voting) works.
+* Thorough understanding of how Iniswap (Exchange, Farming, Info, Voting) works.
 * Experience in writing automated tests for dApp frontends.
 * Ability to create testing setup from zero.
 * Be able to work autonomously.

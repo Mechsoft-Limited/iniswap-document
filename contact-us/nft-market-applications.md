@@ -10,7 +10,7 @@ NFT collection creators can earn creator royalties on trades on iniswap, as well
 
 We're now accepting applications for Phase 2 of the Marketplace, which will be released in Q4 2021.
 
-[Apply for Listing on iniswap NFT Market](https://docs.google.com/forms/d/e/1FAIpQLSdLjOEiJT4s8No2QT2TKknuUSlVMndARFgng4MDJMsoFQjR-A/viewform)
+[Apply for Listing on Iniswap NFT Market](https://docs.google.com/forms/d/e/1FAIpQLSdLjOEiJT4s8No2QT2TKknuUSlVMndARFgng4MDJMsoFQjR-A/viewform)
 
 ## Something else
 

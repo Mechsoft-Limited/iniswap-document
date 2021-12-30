@@ -1,11 +1,11 @@
-# iniswap Intro
+# IniswapIntro
 
 
 
 ![](<.gitbook/assets/masthead-twitter-3- (1) (1).png>)
 
 {% hint style="success" %}
-#### iniswap helps you make the most out of your crypto in three ways:
+#### Iniswap helps you make the most out of your crypto in three ways:
 
 #### Trade, Earn, and Win.
 {% endhint %}
@@ -16,17 +16,17 @@
 
 ### The people's choice
 
-iniswap is the leading decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
+Iniswap is the leading decentralized exchange on Binance Smart Chain, with the highest trading volumes in the market (sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)).
 
 ### Low fees
 
-Why pay more? iniswap runs on Binance Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin. \
+Why pay more? Iniswap runs on Binance Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin. \
 Trading fees are lower than other top decentralized exchanges too, so that's a double win for you!
 
 ### Decentralized
 
 Trade directly from your wallet app. \
-Unlike centralized exchanges like Binance or Coinbase, iniswap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**. 
+Unlike centralized exchanges like Binance or Coinbase, Iniswap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**. 
 
 ## 💸 Earn
 
@@ -47,11 +47,11 @@ No farm? No problem. Even if your trading pair isn’t supported on the Farms pa
 
 ## 🎲 Win
 
-> iniswap makes making money fun.
+> Iniswap makes making money fun.
 
 ### Lottery 
 
-**Millions of dollars** regularly go up for grabs on the iniswap Lottery. \
+**Millions of dollars** regularly go up for grabs on the Iniswap Lottery. \
 Join as many as **11,000 daily players** for your chance to win big!
 
 ### NFT Collectibles 
@@ -64,11 +64,11 @@ Win BNB if you can predict whether the BNB price will rise or fall.\
 New rounds every 5 minutes!\
 
 
-## Is iniswap safe?
+## Is Iniswap safe?
 
 See for yourself:
 
-* Check out these iniswap security audits: 
+* Check out these Iniswap security audits: 
   * [Certik’s security audit of iniswap](https://www.certik.org/projects/iniswap) and [Certik's Shield insurance](https://shield.certik.foundation)
   * [Slowmist's security audit of iniswap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
   * [Slowmist's Auto-INI Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)

@@ -5,7 +5,7 @@
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
-  * [Using iniswap without Centralized Exchanges](get-started/using-iniswap-without-centralized-exchanges.md)
+  * [Using Iniswap without Centralized Exchanges](get-started/using-iniswap-without-centralized-exchanges.md)
   * [Connect Your Wallet to iniswap](get-started/connection-guide.md)
 * [Click Here for Help](help/README.md)
   * [Troubleshooting Errors](help/troubleshooting.md)

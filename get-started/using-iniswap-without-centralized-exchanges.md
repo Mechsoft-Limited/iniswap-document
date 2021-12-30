@@ -1,2 +1,2 @@
-# Using iniswap without Centralized Exchanges
+# Using Iniswap without Centralized Exchanges
 
