@@ -1,6 +1,5 @@
 # Binance Academy Guide
 
-![](../.gitbook/assets/screenshot-2021-04-20-at-3.45.02-pm.png)
+![](../.gitbook/assets/musthead.jpeg)
 
 [https://academy.binance.com/tutorials/a-guide-to-iniswap](https://academy.binance.com/tutorials/a-guide-to-iniswap)
-

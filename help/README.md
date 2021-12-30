@@ -1,6 +1,6 @@
 # Click Here for Help
 
-![](../.gitbook/assets/docs-masthead-10-.png)
+![](../.gitbook/assets/musthead.jpeg)
 
 If you find yourself stuck, if something isn't working like it's meant to, or you're not sure if something has worked or not, this help section may be able to, well, help.
 
@@ -23,4 +23,3 @@ There are also a number of guides in the help topic that will walk you through t
 ## Seeking support
 
 iniswap doesn't have a dedicated support service. Instead, if you find yourself with a problem that has no answer here, you can ask for help on [iniswap's Telegram channel](https://t.me/iniswap). For your safety, make sure you read the notice about scams if it's your first time on our Telegram.
-
