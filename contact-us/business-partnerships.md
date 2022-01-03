@@ -8,7 +8,7 @@ Farms incentivize users to provide liquidity for your trading pair by distributi
 
 Syrup Pools are a way of distributing your tokens to BSC users who stake INI in the pool.
 
-These two products go hand-in-paw on iniswap: when a project provides their tokens for a Syrup Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
+These two products go hand-in-paw on Iniswap: when a project provides their tokens for a Syrup Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
 
 [Apply to run a Farm or Syrup Pool](https://docs.google.com/forms/d/e/1FAIpQLSfQNsAfh98SAfcqJKR3is2hdvMRdnvfd2F3Hql96vXHgIi3Bw/viewform)
 
@@ -31,27 +31,11 @@ Qualifying criteria for Community Farms and Core Farms/Pools are based on our in
 
 If you’ve already got an ongoing Pool and Farm, you may be able to extend the timeline via a Boost Pool. If you wish to increase the multiplier, the team will consider it if 30-day volume is increased. Contact us via your existing Iniswap communication channels for enquiries.
 
-## IFOs (Token Sales)
 
-"IFO" (Initial Farm Offering) is a new model of token sale pioneered by iniswap. Here's how it works, in short:
-
-* Users buy your token with INI-BNB LP tokens
-* After the sale, we distribute the BNB to you and burn the INI.
-
-Learn more about [how IFOs work](https://medium.com/iniswap/initial-farm-offering-ifo-2-0-7bfbb1ae0e8).
-
-[Apply to run an IFO](https://docs.google.com/forms/d/e/1FAIpQLSf0Vmy3k0KyXtXwqxr8QLjD8Xd6KBAmkYxcBRRVTUYJVX17fA/viewform)
-
-* Please don't email us to apply - we only respond to applications via the application form.
-* Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
 
 ### How long will it take to get a response?
 
 We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within **two weeks** of applying, try reaching out to [t.me/David\_INISWAP](https://t.me/David\_INISWAP) or [t.me/ErastoPhd](https://t.me/ErastoPhd) on Telegram, with **the name of your project, your token ticker, and the date you applied**.
-
-## NFT Market <a href="#exchange" id="exchange"></a>
-
-[Apply to list](nft-market-applications.md#apply-for-nft-market-listing)
 
 ## Listing on the Exchange <a href="#exchange" id="exchange"></a>
 
