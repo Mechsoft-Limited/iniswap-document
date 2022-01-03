@@ -1,4 +1,4 @@
-# Telegram
+# Discord
 
-[https://t.me/iniswap](https://t.me/iniswap)
+[https://discord.gg/yKKccBVX9w](https://discord.gg/yKKccBVX9w)
 

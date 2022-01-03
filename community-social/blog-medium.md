@@ -1,4 +1,4 @@
 # Blog \(Medium\)
 
-[https://medium.com/@iniswap](https://medium.com/@iniswap)
+[https://medium.com/@iniswapfinance](https://medium.com/@iniswapfinance)
 
