@@ -10,7 +10,7 @@ Syrup Pools are a way of distributing your tokens to BSC users who stake INI in 
 
 These two products go hand-in-paw on Iniswap: when a project provides their tokens for a Syrup Pool, we'll also create a Farm. If you're looking to distribute tokens and incentivize liquidity, get in touch.
 
-[Apply to run a Farm or Syrup Pool](https://docs.google.com/forms/d/e/1FAIpQLSfQNsAfh98SAfcqJKR3is2hdvMRdnvfd2F3Hql96vXHgIi3Bw/viewform)
+Apply to run a Farm or Syrup Pool
 
 * Please don't email us to apply - we only respond to applications via the application form.
 * Please don't chase us for a response on your application. We have a constant backlog of quality projects reaching out to us.
