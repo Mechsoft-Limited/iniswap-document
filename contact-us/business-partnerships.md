@@ -17,7 +17,7 @@ These two products go hand-in-paw on iniswap: when a project provides their toke
 
 ### How long will it take to get a response?
 
-We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within **two weeks** of applying, try reaching out to [t.me/ChefTaro](https://t.me/ChefTaro) or [t.me/chef\_misty](https://t.me/Chef\_Misty) on Telegram, with **the name of your project, your token ticker, and the date you applied**.
+We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within **two weeks** of applying, try reaching out to [t.me/David\_INISWAP](https://t.me/David\_INISWAP) or [t.me/ErastoPhd](https://t.me/ErastoPhd) on Telegram, with **the name of your project, your token ticker, and the date you applied**.
 
 ### What’s the difference between a Core Farm VS Farm Auction
 
@@ -47,7 +47,7 @@ Learn more about [how IFOs work](https://medium.com/iniswap/initial-farm-offerin
 
 ### How long will it take to get a response?
 
-We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within **two weeks** of applying, try reaching out to[ t.me/ChefTaro](https://t.me/ChefTaro) or [t.me/chef\_misty](https://t.me/Chef\_Misty) on Telegram, with **the name of your project, your token ticker, and the date you applied**.
+We aim to respond to applications within a week, but due to the large number of requests, we’re unable to respond to every single applicant. If you don’t hear back from us within **two weeks** of applying, try reaching out to [t.me/David\_INISWAP](https://t.me/David\_INISWAP) or [t.me/ErastoPhd](https://t.me/ErastoPhd) on Telegram, with **the name of your project, your token ticker, and the date you applied**.
 
 ## NFT Market <a href="#exchange" id="exchange"></a>
 
@@ -57,7 +57,7 @@ We aim to respond to applications within a week, but due to the large number of 
 
 ### How can I list my token on the exchange?
 
-Anybody can "list" any BEP-20 network token on iniswap. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](../products/exchange/liquidity-pools.md) - that's it. Traders can then trade your token by entering your token's contract address.
+Anybody can "list" any BEP-20 network token on Iniswap. You don't need to contact us or ask permission. You just need to [add liquidity to a liquidity pool](../products/exchange/liquidity-pools.md) - that's it. Traders can then trade your token by entering your token's contract address.
 
 ### How can I add my token to the default list?
 
@@ -71,7 +71,7 @@ Please add your icon to Trust Wallet’s assets repo, which Iniswap references: 
 
 ### Someone made a fake copy of my token! Can you block it?
 
-Due to iniswap’s nature as an AMM-based DEX, we’re not able to prevent the trading of any BEP-20 token. We recommend ensuring that your token contract is clearly visible and verifiable on your site, and educating your users about how to safely trade your token.
+Due to Iniswap’s nature as an AMM-based DEX, we’re not able to prevent the trading of any BEP-20 token. We recommend ensuring that your token contract is clearly visible and verifiable on your site, and educating your users about how to safely trade your token.
 
 ### People get an error when trading my token. What can I do?
 
