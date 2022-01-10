@@ -66,7 +66,7 @@ Total Supply : 1,000,000,000 INI Allocation 1% for ILO (Initial Liquidity Offeri
 
 ## Question 8:
 
-### What are the main competitive advantages that BabySwap has over other swaps such as Apeswap, Pancakeswap, Sushiswap, Uniswap, etc …?
+### What are the main competitive advantages that IniSwap has over other swaps such as Apeswap, Pancakeswap, Sushiswap, Uniswap, etc …?
 
 ## Answer 8:
 
@@ -88,24 +88,24 @@ We see NFT as one of our most valuable elements. As a People’s DEX, we want to
 
 ## Answer 10:&#x20;
 
-Iniswap team is a group of energetic people that have at least 3-6 years experience in the crypto world, especially about exchange and defi as well as whole Financial market
+Iniswap team is a group of energetic people that have at least 3-6 years of experience in the crypto world, especially about exchange and Defi as well as whole Financial market
 
 ## Question 11:
 
-### What benefits will liquidity providers get besides collecting transaction fees and funding fees? Do you have events or programs to attract more users and new liquidity providers? Why should I buy and poject token for the long term?
+### What benefits will liquidity providers get besides collecting transaction fees and funding fees? Do you have events or programs to attract more users and new liquidity providers? Why should I buy the project token for the long term?
 
 ## Answer 11:
 
-Liquidity providers will have the change to get airdrops and take part in the our marketing campaign.
+Liquidity providers will have the chance to get into airdrops and take part in our marketing campaign.
 
-Stay tuned with Iniswap/
+Stay tuned with Iniswap
 
-Website: iniswap.finance
+Website: i[niswap.finance](https://iniswap.finance)
 
-Twitter:
+Twitter: [@iniswapfinan](https://twitter.com/Iniswapfinance)ce
 
-Telegram Group:
+Telegram Group: [@Iniswap\_finance](https://t.me/Iniswap\_finance)
 
-Telegram Announcements:
+Telegram Announcements[: @iniswap\_INI](https://t.me/Iniswap\_INI)
 
 ### Thank you for having us
