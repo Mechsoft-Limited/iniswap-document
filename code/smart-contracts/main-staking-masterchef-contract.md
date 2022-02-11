@@ -2,7 +2,7 @@
 
 ## Contract info
 
-**Contract name:   Iniswap**Factory\
-**Contract address:** 0x73feaa1eE314F8c655E354234017bE2193C9E24E
+**Contract name:**   IniFactory
+**Contract address:** 0x7932a7597B602f7669197063D3eF7d3FeC79170B
 
-View the [iniswap: Main Staking Contract on BscScan](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e).
+View the [iniswap: Main Staking Contract on BscScan](https://bscscan.com/address/0x7932a7597B602f7669197063D3eF7d3FeC79170B).

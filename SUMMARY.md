@@ -19,7 +19,7 @@
   * [Social Accounts & Communities](contact-us/telegram.md)
 <!-- * [Brand & Logos](brand.md) -->
 * [Roadmap](roadmap.md)
-* [Team](team.md)
+<!-- * [Team](team.md) -->
 
 ## Products
 
@@ -67,10 +67,10 @@
   * [Codebase Overview](code/contributing/codebase-overview.md)
 <!-- * [Bug Bounty](code/bug-bounty.md) -->
 * [Smart Contracts](code/smart-contracts/README.md)
-  * [Iniswap Exchange](code/smart-contracts/iniswap-exchange/README.md)
+  <!-- * [Iniswap Exchange](code/smart-contracts/iniswap-exchange/README.md)
     * [Factory](code/smart-contracts/iniswap-exchange/factory-v2.md)
     * [Router](code/smart-contracts/iniswap-exchange/router-v2.md)
-  * [Main Staking/Syrup Pool/MasterChef Contract](code/smart-contracts/main-staking-masterchef-contract.md)
+  * [Main Staking/Syrup Pool/MasterChef Contract](code/smart-contracts/main-staking-masterchef-contract.md) -->
   <!-- * [Auto INI Syrup Pool (CakeVault)](code/smart-contracts/cakevault.md) -->
   <!-- * [Prediction](code/smart-contracts/prediction-v2.md) -->
   <!-- * [Lottery](code/smart-contracts/lottery-v2.md) -->
