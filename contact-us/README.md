@@ -21,3 +21,5 @@
 ### [Customer Support](customer-support.md#there-is-no-customer-support-for-iniswap)
 
 ### [Social Communities](telegram.md)
+
+### [Official Email](mailto:info@iniswap.finance)
