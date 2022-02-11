@@ -22,4 +22,4 @@
 
 ### [Social Communities](telegram.md)
 
-### [Official Email](mailto:info@iniswap.finance)
+### [Official Email: info@iniswap.finance](mailto:info@iniswap.finance)
